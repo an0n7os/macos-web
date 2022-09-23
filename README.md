@@ -21,7 +21,6 @@ I've always been very fascinated with macOS, and have never owned a Mac/book. So
 
 # When will it be ready?
 
-![Who knows?](https://i.imgur.com/6xfbPzs.gif)
 
 # Can I contribute?
 
