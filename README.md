@@ -17,7 +17,7 @@ I've always been very fascinated with macOS, and have never owned a Mac/book. So
 - Component Library - None!!
 - Styling Solution - SCSS and CSS Modules.
 
-[Roadmap](https://www.notion.so/MacOS-Web-Roadmap-274d703460564ea3bb5493b39bf8f886)
+[Roadmap](https://www.notion.so/MacOS-Web-Roadmap-ea7613aa68374a6c8b8e94065b1a4010)
 
 # When will it be ready?
 
