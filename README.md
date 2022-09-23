@@ -22,7 +22,7 @@ I've always been very fascinated with macOS, and have never owned a Mac/book. So
 # When will it be ready?
 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.technopat.net%2F2021%2F06%2F08%2Fmacos-monterey-tanitildi-iste-one-cikan-ozellikleri%2F&psig=AOvVaw3C3heycSkbPGy7iA_2oKua&ust=1664024925133000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMCZqIH-qvoCFQAAAAAdAAAAABAN)
+[](https://www.technopat.net/wp-content/uploads/2021/06/macos-monterey-tanitildi-iste-ozellikleri-technopat.jpg)
 
 
 # Can I contribute?
