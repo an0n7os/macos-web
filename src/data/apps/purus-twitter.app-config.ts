@@ -1,11 +1,11 @@
 import { createAppConfig } from '__/helpers/create-app-config';
 
 export const purusTwitterAppConfig = createAppConfig({
-  title: `Puru's Twitter`,
+  title: `Twitter`,
   resizable: true,
 
   shouldOpenWindow: false,
-  externalAction: () => window.open('https://twitter.com/puruvjdev', '_blank'),
+  externalAction: () => window.open('https://twitter.com/aswinkrishnavb', '_blank'),
 
   dockBreaksBefore: true,
 });

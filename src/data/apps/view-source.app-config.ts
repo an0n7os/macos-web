@@ -5,5 +5,5 @@ export const viewSourceAppConfig = createAppConfig({
   resizable: true,
 
   shouldOpenWindow: false,
-  externalAction: () => window.open('https://github.com/puruvj/macos-web', '_blank'),
+  externalAction: () => window.open('https://github.com/an0n7os/macos-web.git', '_blank'),
 });
