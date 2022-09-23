@@ -22,6 +22,8 @@ I've always been very fascinated with macOS, and have never owned a Mac/book. So
 # When will it be ready?
 
 (public/assets/cover-image.png}
+![plot](public/assets/cover-image.png)
+
 
 # Can I contribute?
 
