@@ -82,8 +82,9 @@ export const Window = ({ appID }: WindowProps) => {
     >
       <section class={css.container} tabIndex={-1} ref={containerRef} onClick={focusCurrentApp}>
         <div
-          style={trafficLightsStyle}
+          style={{ ...trafficLightsStyle, padding: '0.9rem', width: '100%', left: 0, top: 0 }}
           class={clsx(css.trafficLightsContainer, 'app-window-drag-handle')}
+          onDoubleClick={maximizeApp}
         >
           <TrafficLights appID={appID} onMaximizeClick={maximizeApp} />
         </div>
